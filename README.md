@@ -37,4 +37,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0050-powx-n) |
+## Array
+|  |
+| ------- |
+| [0216-combination-sum-iii](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0216-combination-sum-iii) |
+## Backtracking
+|  |
+| ------- |
+| [0216-combination-sum-iii](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0216-combination-sum-iii) |
 <!---LeetCode Topics End-->
