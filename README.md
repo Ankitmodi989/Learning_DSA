@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0148-sort-list](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Ankitmodi989/Learning_DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -61,8 +62,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0079-word-search) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Matrix
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0079-word-search) |
+## Stack
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Tree
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Binary Tree
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 <!---LeetCode Topics End-->
