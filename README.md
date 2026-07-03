@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0050-powx-n) |
 ## Recursion
 |  |
@@ -84,5 +85,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0029-divide-two-integers) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Ankitmodi989/Learning_DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
 <!---LeetCode Topics End-->
