@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0050-powx-n) |
+| [0204-count-primes](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0204-count-primes) |
 ## Recursion
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0079-word-search) |
+| [0204-count-primes](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0216-combination-sum-iii) |
 ## Backtracking
 |  |
@@ -87,4 +89,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0029-divide-two-integers) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Ankitmodi989/Learning_DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
