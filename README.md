@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0204-count-primes](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0216-combination-sum-iii) |
+| [0239-sliding-window-maximum](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0239-sliding-window-maximum) |
 | [0503-next-greater-element-ii](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0907-sum-of-subarray-minimums) |
 ## Backtracking
@@ -110,4 +111,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0907-sum-of-subarray-minimums) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0239-sliding-window-maximum) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
