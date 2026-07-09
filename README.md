@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0079-word-search) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0204-count-primes](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0216-combination-sum-iii) |
 | [0503-next-greater-element-ii](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0503-next-greater-element-ii) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0907-sum-of-subarray-minimums) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0907-sum-of-subarray-minimums) |
 <!---LeetCode Topics End-->
