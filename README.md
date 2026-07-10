@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0148-sort-list](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0460-lfu-cache](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0460-lfu-cache) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Ankitmodi989/Learning_DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0460-lfu-cache](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0460-lfu-cache) |
 ## Math
 |  |
 | ------- |
@@ -127,4 +129,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0239-sliding-window-maximum) |
+## Design
+|  |
+| ------- |
+| [0460-lfu-cache](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0460-lfu-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0460-lfu-cache](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
