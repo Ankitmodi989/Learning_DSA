@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0076-minimum-window-substring) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0460-lfu-cache](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0460-lfu-cache) |
 | [0930-binary-subarrays-with-sum](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0930-binary-subarrays-with-sum) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0131-palindrome-partitioning) |
 ## Dynamic Programming
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0239-sliding-window-maximum) |
 | [0930-binary-subarrays-with-sum](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0992-subarrays-with-k-different-integers) |
