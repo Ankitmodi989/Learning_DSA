@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0148-sort-list) |
+| [0621-task-scheduler](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0621-task-scheduler) |
 ## Merge Sort
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0076-minimum-window-substring) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0460-lfu-cache](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0460-lfu-cache) |
+| [0621-task-scheduler](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0621-task-scheduler) |
 | [0930-binary-subarrays-with-sum](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0992-subarrays-with-k-different-integers) |
 ## Math
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0239-sliding-window-maximum) |
 | [0503-next-greater-element-ii](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0503-next-greater-element-ii) |
+| [0621-task-scheduler](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0621-task-scheduler) |
 | [0907-sum-of-subarray-minimums](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0992-subarrays-with-k-different-integers) |
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0239-sliding-window-maximum) |
+| [0621-task-scheduler](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0621-task-scheduler) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -163,5 +167,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0621-task-scheduler) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0992-subarrays-with-k-different-integers) |
+## Greedy
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
