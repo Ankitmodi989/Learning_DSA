@@ -21,10 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0148-sort-list) |
+| [0347-top-k-frequent-elements](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0148-sort-list) |
+| [0347-top-k-frequent-elements](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0846-hand-of-straights) |
 ## Merge Sort
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0076-minimum-window-substring) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0347-top-k-frequent-elements](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0355-design-twitter) |
 | [0460-lfu-cache](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0460-lfu-cache) |
 | [0621-task-scheduler](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0621-task-scheduler) |
@@ -61,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0503-next-greater-element-ii](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0503-next-greater-element-ii) |
 | [0621-task-scheduler](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0846-hand-of-straights) |
@@ -146,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0621-task-scheduler) |
 ## Monotonic Queue
@@ -174,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0621-task-scheduler) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0992-subarrays-with-k-different-integers) |
 ## Greedy
@@ -181,4 +187,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0621-task-scheduler](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0846-hand-of-straights) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
