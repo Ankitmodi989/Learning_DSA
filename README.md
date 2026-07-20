@@ -112,14 +112,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0222-count-complete-tree-nodes](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0222-count-complete-tree-nodes) |
 ## Binary Tree
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0222-count-complete-tree-nodes](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0222-count-complete-tree-nodes) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0029-divide-two-integers) |
+| [0222-count-complete-tree-nodes](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0222-count-complete-tree-nodes) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Ankitmodi989/Learning_DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Enumeration
 |  |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0222-count-complete-tree-nodes) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ankitmodi989/Learning_DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
