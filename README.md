@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0055-jump-game) |
 | [0079-word-search](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0084-largest-rectangle-in-histogram) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0055-jump-game) |
 | [0131-palindrome-partitioning](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0131-palindrome-partitioning) |
 | [0907-sum-of-subarray-minimums](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0907-sum-of-subarray-minimums) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0055-jump-game) |
 | [0621-task-scheduler](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0846-hand-of-straights) |
