@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0063-unique-paths-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0131-palindrome-partitioning) |
+| [0338-counting-bits](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0907-sum-of-subarray-minimums](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0907-sum-of-subarray-minimums) |
 ## Depth-First Search
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0029-divide-two-integers) |
 | [0222-count-complete-tree-nodes](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0338-counting-bits](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0338-counting-bits) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Ankitmodi989/Learning_DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Enumeration
 |  |
