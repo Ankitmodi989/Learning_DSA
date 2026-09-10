@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0846-hand-of-straights) |
 | [0907-sum-of-subarray-minimums](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0930-binary-subarrays-with-sum) |
+| [0983-minimum-cost-for-tickets](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0983-minimum-cost-for-tickets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ankitmodi989/Learning_DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Ankitmodi989/Learning_DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0907-sum-of-subarray-minimums](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0907-sum-of-subarray-minimums) |
+| [0983-minimum-cost-for-tickets](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0983-minimum-cost-for-tickets) |
 | [1755-closest-subsequence-sum](https://github.com/Ankitmodi989/Learning_DSA/tree/master/1755-closest-subsequence-sum) |
 ## Depth-First Search
 |  |
