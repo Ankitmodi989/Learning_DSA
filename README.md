@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0846-hand-of-straights) |
 | [1755-closest-subsequence-sum](https://github.com/Ankitmodi989/Learning_DSA/tree/master/1755-closest-subsequence-sum) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ankitmodi989/Learning_DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Merge Sort
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Ankitmodi989/Learning_DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Ankitmodi989/Learning_DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1755-closest-subsequence-sum](https://github.com/Ankitmodi989/Learning_DSA/tree/master/1755-closest-subsequence-sum) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ankitmodi989/Learning_DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ankitmodi989/Learning_DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Ankitmodi989/Learning_DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Backtracking
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [0983-minimum-cost-for-tickets](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0983-minimum-cost-for-tickets) |
 | [1755-closest-subsequence-sum](https://github.com/Ankitmodi989/Learning_DSA/tree/master/1755-closest-subsequence-sum) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ankitmodi989/Learning_DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0222-count-complete-tree-nodes) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ankitmodi989/Learning_DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ankitmodi989/Learning_DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Prefix Sum
 |  |
 | ------- |
