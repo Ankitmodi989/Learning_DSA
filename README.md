@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0455-assign-cookies) |
 | [0503-next-greater-element-ii](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0503-next-greater-element-ii) |
 | [0621-task-scheduler](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0621-task-scheduler) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0846-hand-of-straights](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0846-hand-of-straights) |
 | [0907-sum-of-subarray-minimums](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0930-binary-subarrays-with-sum) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0907-sum-of-subarray-minimums](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [0983-minimum-cost-for-tickets](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0983-minimum-cost-for-tickets) |
 | [1755-closest-subsequence-sum](https://github.com/Ankitmodi989/Learning_DSA/tree/master/1755-closest-subsequence-sum) |
@@ -304,4 +306,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0836-rectangle-overlap) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Segment Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
