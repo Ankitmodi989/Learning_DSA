@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0204-count-primes) |
+| [0836-rectangle-overlap](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0836-rectangle-overlap) |
 | [3871-count-commas-in-range-ii](https://github.com/Ankitmodi989/Learning_DSA/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ankitmodi989/Learning_DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Ankitmodi989/Learning_DSA/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -299,4 +300,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0322-coin-change) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
