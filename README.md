@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0204-count-primes) |
 | [0836-rectangle-overlap](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0836-rectangle-overlap) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Ankitmodi989/Learning_DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3871-count-commas-in-range-ii](https://github.com/Ankitmodi989/Learning_DSA/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ankitmodi989/Learning_DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Ankitmodi989/Learning_DSA/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ankitmodi989/Learning_DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1755-closest-subsequence-sum](https://github.com/Ankitmodi989/Learning_DSA/tree/master/1755-closest-subsequence-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ankitmodi989/Learning_DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Ankitmodi989/Learning_DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ankitmodi989/Learning_DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Ankitmodi989/Learning_DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Backtracking
