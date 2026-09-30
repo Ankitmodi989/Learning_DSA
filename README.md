@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0042-trapping-rain-water) |
 | [0148-sort-list](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0455-assign-cookies](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0455-assign-cookies) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0063-unique-paths-ii) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0063-unique-paths-ii) |
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -204,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0907-sum-of-subarray-minimums) |
