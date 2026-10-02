@@ -108,12 +108,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0216-combination-sum-iii) |
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0131-palindrome-partitioning) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0055-jump-game) |
@@ -340,5 +343,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Ankitmodi989/Learning_DSA/tree/master/0022-generate-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ankitmodi989/Learning_DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
